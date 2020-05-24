@@ -1,0 +1,60 @@
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe.config
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Presentacion.Con.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInterfaz 10\Expendedora.Presentacion.Con\obj\Debug\Expendedora.Presentacion.Con.pdb

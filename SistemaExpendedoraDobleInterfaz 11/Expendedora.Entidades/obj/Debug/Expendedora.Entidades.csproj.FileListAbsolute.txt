@@ -1,0 +1,48 @@
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Entidades\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Entidades\obj\Debug\Expendedora.Entidades.pdb

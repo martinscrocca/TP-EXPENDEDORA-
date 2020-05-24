@@ -1,0 +1,369 @@
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmLista.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1) - copia\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 2\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 6\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmBebidas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Form1.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.FrmAgregarLatacs.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.ListaLatas.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Maquina_Expendedora.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.Properties.Resources.resources
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe.config
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.exe
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\obj\Debug\Expendedora.PresentacionGUI.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.PresentacionGUI\bin\Debug\Expendedora.PresentacionGUI.pdb

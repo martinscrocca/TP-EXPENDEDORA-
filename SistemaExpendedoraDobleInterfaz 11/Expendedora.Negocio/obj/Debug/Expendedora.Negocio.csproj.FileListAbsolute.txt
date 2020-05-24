@@ -1,0 +1,126 @@
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter (1)\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 2\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 3\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 4\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\Versiones Expendedora\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 5\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 7\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Google Drive (martinscroccaeducacion@gmail.com)\CAI-2    2020\TP EXPENDEDORA\SistemaExpendedoraDobleInter 9\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\bin\Debug\Expendedora.Negocio.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\bin\Debug\Expendedora.Entidades.pdb
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.dll
+C:\Users\marti\Desktop\SistemaExpendedoraDobleInterfaz 10\Expendedora.Negocio\obj\Debug\Expendedora.Negocio.pdb
